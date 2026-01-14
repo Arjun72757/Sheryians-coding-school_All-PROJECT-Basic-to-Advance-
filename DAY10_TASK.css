@@ -1,0 +1,125 @@
+
+body{
+    background-color: rgba(2, 2, 2, 0.873);
+}
+.BOX{
+    background-color: aliceblue;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.container1{
+ background-color: black;
+ color: rgba(244, 241, 241, 0.878);
+ text-align: center;
+ margin-right: auto;
+ margin-left: auto;
+ margin-top: auto;
+ margin-bottom: 10p;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-right: auto;
+ padding-left: auto;
+ height: 150px;
+ h1{font-size: 100;
+ font-weight: 100;
+ }
+}
+.container2{
+    background-color: aliceblue;
+    color: rgb(9, 12, 14);
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: auto;
+    margin-bottom: 10px;
+    padding-top: 20px ;
+    padding-bottom: 20PX;
+    padding-left: auto;
+    padding-right: auto;
+    h2{
+        font-size: 100;
+        font-weight: 100;
+        height: auto;
+        width: 95%;
+    }
+}
+.container3{
+    
+    background-color: aquamarine;
+    color: rgb(9, 10, 11);
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: auto;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:auto ;
+    padding-left: auto;
+    h2{
+        font-size: 100;
+        font-weight: 100;
+        height: auto;
+        width: 95;
+    }
+}
+.container4{
+
+    background-color: rgb(143, 174, 233);
+    color: rgb(9, 10, 11);
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top:auto;
+    margin-bottom: 10px;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    h2{
+        font-size: 100;
+        font-weight: 100;
+    }
+}
+.container5{
+
+    background-color: rgb(235, 193, 142);
+    color: rgb(9, 10, 11);
+    text-align: center;
+    margin-top:auto;
+    margin-bottom:10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: auto;
+    padding-right: auto;
+    h2{
+    
+        font-size: 100;
+        font-weight: 100;
+    }
+
+}
+.container6{
+    background-color: darkgrey;
+    color: rgb(23, 24, 26);
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: auto;
+    padding-right: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    h2{
+        font-size: 100;
+        font-weight: 100;
+    }
+    
+}
+#copy{
+    background-color: aliceblue;
+    text-align: center;
+}
